@@ -1,0 +1,16 @@
+C:\Documents and Settings\student\Moje dokumenty\Visual Studio 2008\Projects\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe
+C:\Documents and Settings\student\Moje dokumenty\Visual Studio 2008\Projects\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.pdb
+C:\Documents and Settings\student\Moje dokumenty\Visual Studio 2008\Projects\MonteCarlo\MonteCarlo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\student\Moje dokumenty\Visual Studio 2008\Projects\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.Form1.resources
+C:\Documents and Settings\student\Moje dokumenty\Visual Studio 2008\Projects\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.Properties.Resources.resources
+C:\Documents and Settings\student\Moje dokumenty\Visual Studio 2008\Projects\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.csproj.GenerateResource.Cache
+C:\Documents and Settings\student\Moje dokumenty\Visual Studio 2008\Projects\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.exe
+C:\Documents and Settings\student\Moje dokumenty\Visual Studio 2008\Projects\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.pdb
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.exe
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.pdb
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.pdb
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\MonteCarlo\MonteCarlo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.Form1.resources
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.Properties.Resources.resources
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.csproj.GenerateResource.Cache
